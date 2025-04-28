@@ -2,7 +2,7 @@ Personal Finance Tracker
 
 Overview
 
-The Personal Finance Tracker is a web application that allows users to securely manage their finances by logging transactions, setting budgets, and generating insightful financial reports. It is built using a modern full-stack technology setup: React + TypeScript on the frontend, Fastify + TypeScript on the backend, and PostgreSQL for persistent data storage.
+The Personal Finance Tracker is a web application that allows users to securely manage their finances by logging transactions, setting budgets, and generating insightful financial reports. It is built using a modern full-stack technology setup: React on the frontend, Fastify + JavaScript on the backend, and PostgreSQL for persistent data storage.
 
 Features
 
